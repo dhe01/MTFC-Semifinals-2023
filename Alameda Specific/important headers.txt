@@ -1,0 +1,74 @@
+Key columns:
+
+--- Importance/Impact of Water ---
+Public Supply population served by groundwater, in thousands 
+Public Supply population served by surface water, in thousands 
+
+# Freshwater (Groundwater/Surface water) withdraw
+Public Supply self-supplied groundwater withdrawals, fresh, in Mgal/d 
+Public Supply self-supplied surface-water withdrawals, fresh, in Mgal/d 
+
+Public Supply total self-supplied withdrawals, groundwater, in Mgal/d 
+Public Supply total self-supplied withdrawals, surface water, in Mgal/d
+
+Public Supply total self-supplied withdrawals, fresh, in Mgal/d
+
+# Water Usage in Other Sectors
+Public Supply deliveries to domestic, in Mgal/d
+Public Supply deliveries to commercial, in Mgal/d
+Public Supply deliveries to industrial, in Mgal/d
+Public Supply deliveries to thermoelectric, in Mgal/d
+Public Supply total deliveries, in Mgal/d
+Public Supply public use and losses, in Mgal/d
+Public Supply per capita use, in gallons/person/day
+Public Supply reclaimed wastewater, in Mgal/d
+
+# Domestic Withdrawals
+Domestic self-supplied groundwater withdrawals, fresh, in Mgal/d	
+Domestic self-supplied surface-water withdrawals, fresh, in Mgal/d	
+Domestic consumptive use, fresh, in Mgal/d
+Domestic reclaimed wastewater, in Mgal/d
+
+# Commercial Withdrawals
+Commercial self-supplied groundwater withdrawals, fresh, in Mgal/d	
+Commercial self-supplied surface-water withdrawals, fresh, in Mgal/d	
+Commercial consumptive use, fresh, in Mgal/d
+Commercial reclaimed wastewater, in Mgal/d
+
+# Industrial Withdrawals
+Industrial self-supplied groundwater withdrawals, fresh, in Mgal/d	
+Industrial self-supplied surface-water withdrawals, fresh, in Mgal/d	
+Industrial consumptive use, fresh, in Mgal/d
+Industrial reclaimed wastewater, in Mgal/d
+
+# Total Thermoelectric Power Withdrawals
+Total Thermoelectric Power self-supplied groundwater withdrawals, fresh, in Mgal/d	
+Total Thermoelectric Power self-supplied surface-water withdrawals, fresh, in Mgal/d	
+Total Thermoelectric Power consumptive use, fresh, in Mgal/d
+Total Thermoelectric Power reclaimed wastewater, in Mgal/d
+
+# Mining Withdrawals
+Mining self-supplied groundwater withdrawals, fresh, in Mgal/d	
+Mining self-supplied surface-water withdrawals, fresh, in Mgal/d	
+Mining consumptive use, fresh, in Mgal/d
+Mining reclaimed wastewater, in Mgal/d
+
+# Livestock
+Livestock self-supplied groundwater withdrawals, fresh, in Mgal/d	
+Livestock self-supplied surface-water withdrawals, fresh, in Mgal/d	
+Livestock consumptive use, fresh, in Mgal/d
+Livestock reclaimed wastewater, in Mgal/d
+
+# Aquaculture 
+Aquaculture self-supplied groundwater withdrawals, fresh, in Mgal/d	
+Aquaculture self-supplied surface-water withdrawals, fresh, in Mgal/d	
+Aquaculture consumptive use, fresh, in Mgal/d
+Aquaculture reclaimed wastewater, in Mgal/d
+
+# Irrigation
+Irrigation, Total self-supplied groundwater withdrawals, fresh, in Mgal/d	
+Irrigation, Total self-supplied surface-water withdrawals, fresh, in Mgal/d
+Irrigation, Total consumptive use, fresh, in Mgal/d
+Irrigation, Total reclaimed wastewater, in Mgal/d
+
+Wastewater Treatment returns by public wastewater facilities, in Mgal/d	
