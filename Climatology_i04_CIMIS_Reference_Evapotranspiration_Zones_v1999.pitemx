@@ -1,0 +1,12 @@
+
+
+{
+"name":"Climatology/i04_CIMIS_Reference_Evapotranspiration_Zones_v1999",
+"title":"Climatology/i04_CIMIS_Reference_Evapotranspiration_Zones_v1999",
+"type":"Map Service",
+"typeKeywords":["ArcGIS Server","Service","Map Service"],
+"description":"<DIV STYLE=\"text-align:Left;\"><DIV><P><SPAN>The ETo Zones Map allows users to view the grass-reference evapotranspiration (ETo) Zones for the State of California. The map was developed by DWR and UC Davis in 1999 and divides the State into 18 zones based on long-term monthly average ETo. The ETo values were calculated using data from various data sources, including CIMIS weather stations that had at least five years of archived data. This dataset is the version from 1999. The associated data are considered DWR enterprise GIS data, which meet all appropriate requirements of the DWR Spatial Data Standards, specifically the DWR Spatial Data Standard version 3.1, dated September 11, 2019. This data set was not produced by DWR. Data were originally developed and supplied by ESA, under contract to California Department of Water Resources. DWR makes no warranties or guarantees \u2014 either expressed or implied \u2014 as to the completeness, accuracy, or correctness of the data. DWR neither accepts nor assumes liability arising from or for any incorrect, incomplete, or misleading subject data. Comments, problems, improvements, updates, or suggestions should be forwarded to the official GIS steward as available and appropriate at gis@water.ca.gov. The associated data are considered DWR enterprise GIS data, which meet all appropriate requirements of the DWR Spatial Data Standards, specifically the DWR Spatial Data Standard version 3.1, dated September 11, 2019. <\/SPAN><\/P><\/DIV><\/DIV>",
+"extent":[[-126.85609807860405,-111.63725895639587],[31.516630604327315,43.018657531672766]],
+
+"url":"https://gis.water.ca.gov/arcgis/rest/services/Climatology/i04_CIMIS_Reference_Evapotranspiration_Zones_v1999/MapServer"
+}
